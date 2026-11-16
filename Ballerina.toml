@@ -1,3 +1,3 @@
 [workspace]
 title = "Default"
-packages = ["test_agent"]
+packages = ["test_agent", "test_mcp"]

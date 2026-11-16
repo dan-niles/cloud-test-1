@@ -1,0 +1,9 @@
+[package]
+org = "dann"
+name = "test_mcp"
+version = "0.1.0"
+distribution = "2201.14.1"
+title = "Test MCP"
+
+[build-options]
+sticky = true
